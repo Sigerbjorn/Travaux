@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513696842 source:/users/etudiants/I2INF1/sbaudr1_/Algo/TP4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

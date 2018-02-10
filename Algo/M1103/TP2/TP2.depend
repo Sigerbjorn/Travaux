@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512126545 source:/users/etudiants/I2INF1/sbaudr1_/Algo/M1103/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504879718 source:/users/etudiants/I2INF1/sbaudr1_/Algo/ioap123.c
+	"ioap123.h"
+
+1504879732 /users/etudiants/I2INF1/sbaudr1_/Algo/ioap123.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508254451 source:/users/etudiants/I2INF1/sbaudr1_/Algo/TP5/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../ioap123.h"
+

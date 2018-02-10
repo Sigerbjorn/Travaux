@@ -1,0 +1,60 @@
+User: sbaudr1_
+Choix de l'user: 4
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 4
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 4
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 4
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi
+Résultat de la demande: 6
+User: sbaudr1_
+Choix de l'user: 2
+Date de la demande: lundi 6 novembre 2017, 15:50:13 (UTC+0100)
+Résultat de la demande: 21605553
+User: sbaudr1_
+Choix de l'user: 4
+Date de la demande: lundi 6 novembre 2017, 15:50:18 (UTC+0100)
+Résultat de la demande: User:
+User: sbaudr1_
+Choix de l'user: 3
+Date de la demande: lundi 6 novembre 2017, 15:53:09 (UTC+0100)
+Résultat de la demande: 
+User: sbaudr1_
+Choix de l'user: 3
+Date de la demande: lundi 6 novembre 2017, 15:54:28 (UTC+0100)
+Résultat de la demande: Algo
+User: sbaudr1_
+Choix de l'user: 3
+Date de la demande: lundi 6 novembre 2017, 15:54:40 (UTC+0100)
+Résultat de la demande: 

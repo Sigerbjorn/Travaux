@@ -1,0 +1,67 @@
+#!/bin/bash
+
+log(){
+echo "User: $1" >> log/log.txt
+echo "Choix de l'user: $2" >> log/log.txt
+echo "Date de la demande: $(date)" >> log/log.txt
+echo "Résultat de la demande: $3" >> log/log.txt 
+}
+
+saisirUser(){
+echo "Saisir un utilisateur"
+read Usr
+}
+
+utilisateur_existe(){ 	
+saisirUser
+echo $(who|grep $Usr)
+}
+
+############################################################################
+
+recupere_uid(){
+saisirUser
+echo $(id -u $Usr)
+log $(whoami) 2 $(id -u $Usr)
+}
+
+############################################################################
+
+liste_repertoire(){
+saisirUser
+ls /users/etudiants/I2INF1/$Usr
+log $(whoami) 3 $(ls /users/etudiants/I2INF1/$Usr)
+
+}
+
+###########################################################################
+
+lire_fichier_log(){
+cat log/log.txt 
+log $(whoami) 4 $(cat log/log.txt)
+
+}
+
+pause(){
+	read x
+log $(whoami) 5 $(date)
+
+}
+
+echo "===================="
+echo "1 - Savoir si un utilisateur est connecté"
+echo "2 - Connaitre l'UID d'un utilisateur"
+echo "3 - Lister les répertoires de l'utilisateur à la racine de son dossier"
+echo "4 - lire le fichier Log"
+echo "5 - Fin"
+echo "==================="
+
+read yay
+
+case $yay in
+1) utilisateur_existe;;
+2) recupere_uid;;
+3) liste_repertoire;;
+4) lire_fichier_log;;
+5) pause;;
+esac

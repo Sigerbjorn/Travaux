@@ -1,0 +1,3 @@
+#!bin/bash
+
+echo $(bash test_findintable.sh 6)

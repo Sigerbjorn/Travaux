@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518248424 source:/users/etudiants/I2INF1/sbaudr1_/Algo/JPO/main(1)(1).c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510736223 source:/users/etudiants/I2INF1/sbaudr1_/Algo/TP1/main.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+
+1510740903 source:/users/etudiants/I2INF1/sbaudr1_/Algo/M1103/TP1/main.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+
